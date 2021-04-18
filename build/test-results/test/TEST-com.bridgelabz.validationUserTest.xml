@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.validationUserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-18T12:57:20" hostname="MSI" time="0.02">
+  <properties/>
+  <testcase name="testInvalidFirstName()" classname="com.bridgelabz.validationUserTest" time="0.02"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
