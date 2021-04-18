@@ -1,2 +1,4 @@
 com/bridgelabz/validationUserTest.java
  com.bridgelabz.validationUserTest
+com/bridgelabz/parameterizedTest.java
+ com.bridgelabz.parameterizedTest
